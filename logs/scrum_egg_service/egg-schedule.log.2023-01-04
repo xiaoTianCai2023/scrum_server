@@ -1,0 +1,90 @@
+2023-01-03 00:35:37,028 INFO 5344 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 00:35:37,028 INFO 5344 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 00:35:37,028 INFO 5344 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 02:37:48,658 INFO 13628 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 02:37:48,658 INFO 13628 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 02:37:48,658 INFO 13628 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 02:51:19,950 INFO 14776 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 02:51:19,950 INFO 14776 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 02:51:19,950 INFO 14776 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 02:51:20,043 INFO 13360 [Timer] E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 5919959ms at 2023-01-03 04:30:00.002
+2023-01-03 02:51:20,044 INFO 13360 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 76119957ms at 2023-01-04 00:00:00.001
+2023-01-03 02:51:20,044 INFO 13360 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 76120956ms at 2023-01-04 00:00:01.000
+2023-01-03 02:51:48,314 INFO 14772 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 02:51:48,314 INFO 14772 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 02:51:48,314 INFO 14772 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 02:55:40,472 INFO 14344 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 02:55:40,472 INFO 14344 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 02:55:40,472 INFO 14344 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 03:03:13,133 INFO 7612 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 03:03:13,133 INFO 7612 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 03:03:13,133 INFO 7612 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 03:06:25,669 INFO 476 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 03:06:25,669 INFO 476 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 03:06:25,669 INFO 476 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 03:07:31,795 INFO 9256 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 03:07:31,795 INFO 9256 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 03:07:31,795 INFO 9256 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 03:07:41,145 INFO 9844 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 03:07:41,145 INFO 9844 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 03:07:41,145 INFO 9844 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 03:08:00,478 INFO 11516 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 03:08:00,478 INFO 11516 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 03:08:00,478 INFO 11516 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 03:08:38,291 INFO 2692 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 03:08:38,291 INFO 2692 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 03:08:38,291 INFO 2692 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 03:08:39,842 INFO 13772 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 03:08:39,842 INFO 13772 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 03:08:39,842 INFO 13772 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 03:08:44,059 INFO 11184 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 03:08:44,059 INFO 11184 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 03:08:44,059 INFO 11184 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 03:09:19,153 INFO 13120 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 03:09:19,153 INFO 13120 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 03:09:19,153 INFO 13120 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 03:10:21,913 INFO 13088 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 03:10:21,913 INFO 13088 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 03:10:21,913 INFO 13088 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 03:11:14,942 INFO 13496 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 03:11:14,942 INFO 13496 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 03:11:14,942 INFO 13496 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 03:11:16,783 INFO 13076 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 03:11:16,783 INFO 13076 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 03:11:16,783 INFO 13076 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 03:29:52,938 INFO 12844 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 03:29:52,938 INFO 12844 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 03:29:52,938 INFO 12844 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 03:37:37,569 INFO 11256 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 03:37:37,569 INFO 11256 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 03:37:37,569 INFO 11256 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 03:39:43,914 INFO 9888 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 03:39:43,914 INFO 9888 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 03:39:43,914 INFO 9888 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 03:40:17,649 INFO 11468 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 03:40:17,649 INFO 11468 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 03:40:17,649 INFO 11468 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 03:42:06,487 INFO 12808 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 03:42:06,487 INFO 12808 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 03:42:06,488 INFO 12808 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 17:01:43,039 INFO 8688 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-03 17:01:43,039 INFO 8688 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-03 17:01:43,039 INFO 8688 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-03 17:01:43,142 INFO 9076 [Timer] E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 41296861ms at 2023-01-04 04:30:00.003
+2023-01-03 17:01:43,142 INFO 9076 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 25096858ms at 2023-01-04 00:00:00.000
+2023-01-03 17:01:43,142 INFO 9076 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 25097858ms at 2023-01-04 00:00:01.000
+2023-01-04 17:04:29,513 INFO 9576 [Timer] E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 41130489ms at 2023-01-05 04:30:00.002
+2023-01-04 17:04:29,513 INFO 9576 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 24930487ms at 2023-01-05 00:00:00.000
+2023-01-04 17:04:29,513 INFO 9576 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 24931487ms at 2023-01-05 00:00:01.000
+2023-01-04 17:04:29,401 INFO 10908 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-04 17:04:29,401 INFO 10908 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-04 17:04:29,401 INFO 10908 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-04 18:44:42,620 INFO 7744 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-04 18:44:42,620 INFO 7744 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-04 18:44:42,620 INFO 7744 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-05 00:00:00,196 INFO 7744 [Job#1672848000195407849836953001] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js executing by app
+2023-01-05 00:00:00,203 INFO 7744 [Job#1672848000195407849836953001] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js execute succeed, used 6ms. 
+2023-01-05 00:00:00,197 INFO 9576 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 86399805ms at 2023-01-06 00:00:00.002
+2023-01-05 00:00:01,188 INFO 7744 [Job#1672848001187407859756293001] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2023-01-05 00:00:01,191 INFO 7744 [Job#1672848001187407859756293001] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 3ms. 
+2023-01-05 00:00:01,188 INFO 9576 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 86399813ms at 2023-01-06 00:00:01.001

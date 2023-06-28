@@ -1,0 +1,33 @@
+2023-01-10 09:55:31,059 INFO 11652 [Timer] E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 66868943ms at 2023-01-11 04:30:00.002
+2023-01-10 09:55:31,059 INFO 11652 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 50668941ms at 2023-01-11 00:00:00.000
+2023-01-10 09:55:31,060 INFO 11652 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 50669941ms at 2023-01-11 00:00:01.001
+2023-01-10 09:55:30,945 INFO 10916 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-10 09:55:30,945 INFO 10916 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-10 09:55:30,945 INFO 10916 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-31 11:56:35,044 INFO 15044 [Timer] E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 59604958ms at 2023-02-01 04:30:00.002
+2023-01-31 11:56:35,044 INFO 15044 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 43404956ms at 2023-02-01 00:00:00.000
+2023-01-31 11:56:35,044 INFO 15044 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 43405956ms at 2023-02-01 00:00:01.000
+2023-01-31 11:56:34,956 INFO 15408 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-31 11:56:34,956 INFO 15408 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-31 11:56:34,956 INFO 15408 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-31 11:57:27,312 INFO 15128 [Timer] E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 59552690ms at 2023-02-01 04:30:00.002
+2023-01-31 11:57:27,312 INFO 15128 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 43352688ms at 2023-02-01 00:00:00.000
+2023-01-31 11:57:27,313 INFO 15128 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 43353687ms at 2023-02-01 00:00:01.000
+2023-01-31 11:57:27,226 INFO 17008 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-31 11:57:27,226 INFO 17008 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-31 11:57:27,226 INFO 17008 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-31 14:49:05,956 INFO 15388 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-31 14:49:05,956 INFO 15388 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-31 14:49:05,956 INFO 15388 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-31 14:49:06,859 INFO 6908 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-31 14:49:06,859 INFO 6908 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-31 14:49:06,859 INFO 6908 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-31 14:49:07,763 INFO 12904 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-31 14:49:07,763 INFO 12904 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-31 14:49:07,763 INFO 12904 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-01 00:00:00,122 INFO 12904 [Job#1675180800120542524284115001] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js executing by app
+2023-02-01 00:00:00,134 INFO 12904 [Job#1675180800120542524284115001] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js execute succeed, used 12ms. 
+2023-02-01 00:00:00,122 INFO 15128 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 86399879ms at 2023-02-02 00:00:00.001
+2023-02-01 00:00:01,118 INFO 12904 [Job#1675180801117542534251479001] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2023-02-01 00:00:01,121 INFO 12904 [Job#1675180801117542534251479001] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 3ms. 
+2023-02-01 00:00:01,119 INFO 15128 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 86399883ms at 2023-02-02 00:00:01.002

@@ -1,0 +1,282 @@
+2023-02-01 00:00:01,122 INFO 12904 [egg-logrotator] app logger reload: got log-reload message
+2023-02-01 09:45:08,151 WARN 12904 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2023-02-01 09:45:08,152 WARN 12904 [ClusterClient:Watcher] follower closed, and try to init it again
+2023-02-01 09:45:08,153 INFO 12904 [-/127.0.0.1/-/1ms SCHEDULE /__schedule?path=E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\egg-multipart-tmp\\scrum_egg_service"
+2023-02-01 09:45:08,157 INFO 12904 [-/127.0.0.1/-/5ms SCHEDULE /__schedule?path=E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] end
+2023-02-01 21:25:26,712 WARN 12904 [ClusterClient:Watcher] follower closed, and try to init it again
+2023-02-01 23:18:09,434 INFO 18468 [egg:logger] init all loggers with options: {"dir":"E:\\srcum_egg_service\\logs\\scrum_egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"scrum_egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-02-01 23:18:09,434 INFO 18468 [egg-multipart] stream mode enable
+2023-02-01 23:18:09,514 INFO 18468 [egg-static] starting static serve /public/ -> E:\srcum_egg_service\app\public
+2023-02-01 23:18:09,517 INFO 18468 [egg-security] use methodnoallow middleware
+2023-02-01 23:18:09,517 INFO 18468 [egg-security] use noopen middleware
+2023-02-01 23:18:09,518 INFO 18468 [egg-security] use nosniff middleware
+2023-02-01 23:18:09,518 INFO 18468 [egg-security] use xssProtection middleware
+2023-02-01 23:18:09,519 INFO 18468 [egg-security] use xframe middleware
+2023-02-01 23:18:09,519 INFO 18468 [egg-security] use dta middleware
+2023-02-01 23:18:09,519 INFO 18468 [egg-security] compose 6 middlewares into one security middleware
+2023-02-01 23:18:09,533 INFO 18468 [egg:core] dump config after load, 4ms
+2023-02-01 23:18:09,551 INFO 18468 [egg-watcher:application] watcher start success
+2023-02-01 23:18:09,559 INFO 18468 [egg:core] dump config after ready, 5ms
+2023-02-01 23:18:10,593 INFO 19448 [egg:logger] init all loggers with options: {"dir":"E:\\srcum_egg_service\\logs\\scrum_egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"scrum_egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-02-01 23:18:10,593 INFO 19448 [egg-multipart] stream mode enable
+2023-02-01 23:18:10,667 INFO 19448 [egg-static] starting static serve /public/ -> E:\srcum_egg_service\app\public
+2023-02-01 23:18:10,668 INFO 19448 [egg-security] use methodnoallow middleware
+2023-02-01 23:18:10,669 INFO 19448 [egg-security] use noopen middleware
+2023-02-01 23:18:10,669 INFO 19448 [egg-security] use nosniff middleware
+2023-02-01 23:18:10,669 INFO 19448 [egg-security] use xssProtection middleware
+2023-02-01 23:18:10,670 INFO 19448 [egg-security] use xframe middleware
+2023-02-01 23:18:10,670 INFO 19448 [egg-security] use dta middleware
+2023-02-01 23:18:10,670 INFO 19448 [egg-security] compose 6 middlewares into one security middleware
+2023-02-01 23:18:10,681 INFO 19448 [egg:core] dump config after load, 3ms
+2023-02-01 23:18:10,695 INFO 19448 [egg-watcher:application] watcher start success
+2023-02-01 23:18:10,702 INFO 19448 [egg:core] dump config after ready, 5ms
+2023-02-02 14:48:10,944 INFO 11556 [egg:logger] init all loggers with options: {"dir":"E:\\srcum_egg_service\\logs\\scrum_egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"scrum_egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-02-02 14:48:10,968 INFO 11556 [egg-multipart] stream mode enable
+2023-02-02 14:48:11,039 INFO 11556 [egg-static] starting static serve /public/ -> E:\srcum_egg_service\app\public
+2023-02-02 14:48:11,040 INFO 11556 [egg-security] use methodnoallow middleware
+2023-02-02 14:48:11,041 INFO 11556 [egg-security] use noopen middleware
+2023-02-02 14:48:11,041 INFO 11556 [egg-security] use nosniff middleware
+2023-02-02 14:48:11,042 INFO 11556 [egg-security] use xssProtection middleware
+2023-02-02 14:48:11,042 INFO 11556 [egg-security] use xframe middleware
+2023-02-02 14:48:11,042 INFO 11556 [egg-security] use dta middleware
+2023-02-02 14:48:11,042 INFO 11556 [egg-security] compose 6 middlewares into one security middleware
+2023-02-02 14:48:11,054 INFO 11556 [egg:core] dump config after load, 4ms
+2023-02-02 14:48:11,064 INFO 11556 [egg-watcher:application] watcher start success
+2023-02-02 14:48:11,069 INFO 11556 [egg:core] dump config after ready, 4ms
+2023-02-02 15:27:24,773 INFO 15536 [egg:logger] init all loggers with options: {"dir":"E:\\srcum_egg_service\\logs\\scrum_egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"scrum_egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-02-02 15:27:24,794 INFO 15536 [egg-multipart] stream mode enable
+2023-02-02 15:27:24,863 INFO 15536 [egg-static] starting static serve /public/ -> E:\srcum_egg_service\app\public
+2023-02-02 15:27:24,865 INFO 15536 [egg-security] use methodnoallow middleware
+2023-02-02 15:27:24,865 INFO 15536 [egg-security] use noopen middleware
+2023-02-02 15:27:24,866 INFO 15536 [egg-security] use nosniff middleware
+2023-02-02 15:27:24,866 INFO 15536 [egg-security] use xssProtection middleware
+2023-02-02 15:27:24,866 INFO 15536 [egg-security] use xframe middleware
+2023-02-02 15:27:24,867 INFO 15536 [egg-security] use dta middleware
+2023-02-02 15:27:24,867 INFO 15536 [egg-security] compose 6 middlewares into one security middleware
+2023-02-02 15:27:24,878 INFO 15536 [egg:core] dump config after load, 3ms
+2023-02-02 15:27:24,890 INFO 15536 [egg-watcher:application] watcher start success
+2023-02-02 15:27:24,895 INFO 15536 [egg:core] dump config after ready, 4ms
+2023-02-02 15:29:26,773 INFO 8768 [egg:logger] init all loggers with options: {"dir":"E:\\srcum_egg_service\\logs\\scrum_egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"scrum_egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-02-02 15:29:26,797 INFO 8768 [egg-multipart] stream mode enable
+2023-02-02 15:29:26,875 INFO 8768 [egg-static] starting static serve /public/ -> E:\srcum_egg_service\app\public
+2023-02-02 15:29:26,876 INFO 8768 [egg-security] use methodnoallow middleware
+2023-02-02 15:29:26,877 INFO 8768 [egg-security] use noopen middleware
+2023-02-02 15:29:26,877 INFO 8768 [egg-security] use nosniff middleware
+2023-02-02 15:29:26,878 INFO 8768 [egg-security] use xssProtection middleware
+2023-02-02 15:29:26,878 INFO 8768 [egg-security] use xframe middleware
+2023-02-02 15:29:26,878 INFO 8768 [egg-security] use dta middleware
+2023-02-02 15:29:26,878 INFO 8768 [egg-security] compose 6 middlewares into one security middleware
+2023-02-02 15:29:26,889 INFO 8768 [egg:core] dump config after load, 3ms
+2023-02-02 15:29:26,900 INFO 8768 [egg-watcher:application] watcher start success
+2023-02-02 15:29:26,905 INFO 8768 [egg:core] dump config after ready, 4ms
+2023-02-02 15:30:31,716 INFO 14104 [egg:logger] init all loggers with options: {"dir":"E:\\srcum_egg_service\\logs\\scrum_egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"scrum_egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-02-02 15:30:31,737 INFO 14104 [egg-multipart] stream mode enable
+2023-02-02 15:30:31,811 INFO 14104 [egg-static] starting static serve /public/ -> E:\srcum_egg_service\app\public
+2023-02-02 15:30:31,813 INFO 14104 [egg-security] use methodnoallow middleware
+2023-02-02 15:30:31,813 INFO 14104 [egg-security] use noopen middleware
+2023-02-02 15:30:31,814 INFO 14104 [egg-security] use nosniff middleware
+2023-02-02 15:30:31,814 INFO 14104 [egg-security] use xssProtection middleware
+2023-02-02 15:30:31,814 INFO 14104 [egg-security] use xframe middleware
+2023-02-02 15:30:31,815 INFO 14104 [egg-security] use dta middleware
+2023-02-02 15:30:31,815 INFO 14104 [egg-security] compose 6 middlewares into one security middleware
+2023-02-02 15:30:31,825 INFO 14104 [egg:core] dump config after load, 3ms
+2023-02-02 15:30:31,833 INFO 14104 [egg-watcher:application] watcher start success
+2023-02-02 15:30:31,839 INFO 14104 [egg:core] dump config after ready, 4ms
+2023-02-02 15:30:44,998 INFO 14400 [egg:logger] init all loggers with options: {"dir":"E:\\srcum_egg_service\\logs\\scrum_egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"scrum_egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-02-02 15:30:45,020 INFO 14400 [egg-multipart] stream mode enable
+2023-02-02 15:30:45,089 INFO 14400 [egg-static] starting static serve /public/ -> E:\srcum_egg_service\app\public
+2023-02-02 15:30:45,091 INFO 14400 [egg-security] use methodnoallow middleware
+2023-02-02 15:30:45,091 INFO 14400 [egg-security] use noopen middleware
+2023-02-02 15:30:45,092 INFO 14400 [egg-security] use nosniff middleware
+2023-02-02 15:30:45,092 INFO 14400 [egg-security] use xssProtection middleware
+2023-02-02 15:30:45,093 INFO 14400 [egg-security] use xframe middleware
+2023-02-02 15:30:45,093 INFO 14400 [egg-security] use dta middleware
+2023-02-02 15:30:45,093 INFO 14400 [egg-security] compose 6 middlewares into one security middleware
+2023-02-02 15:30:45,104 INFO 14400 [egg:core] dump config after load, 3ms
+2023-02-02 15:30:45,111 INFO 14400 [egg-watcher:application] watcher start success
+2023-02-02 15:30:45,117 INFO 14400 [egg:core] dump config after ready, 4ms
+2023-02-02 15:30:59,058 INFO 15576 [egg:logger] init all loggers with options: {"dir":"E:\\srcum_egg_service\\logs\\scrum_egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"scrum_egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-02-02 15:30:59,078 INFO 15576 [egg-multipart] stream mode enable
+2023-02-02 15:30:59,149 INFO 15576 [egg-static] starting static serve /public/ -> E:\srcum_egg_service\app\public
+2023-02-02 15:30:59,150 INFO 15576 [egg-security] use methodnoallow middleware
+2023-02-02 15:30:59,151 INFO 15576 [egg-security] use noopen middleware
+2023-02-02 15:30:59,151 INFO 15576 [egg-security] use nosniff middleware
+2023-02-02 15:30:59,152 INFO 15576 [egg-security] use xssProtection middleware
+2023-02-02 15:30:59,152 INFO 15576 [egg-security] use xframe middleware
+2023-02-02 15:30:59,152 INFO 15576 [egg-security] use dta middleware
+2023-02-02 15:30:59,152 INFO 15576 [egg-security] compose 6 middlewares into one security middleware
+2023-02-02 15:30:59,163 INFO 15576 [egg:core] dump config after load, 3ms
+2023-02-02 15:30:59,176 INFO 15576 [egg-watcher:application] watcher start success
+2023-02-02 15:30:59,182 INFO 15576 [egg:core] dump config after ready, 4ms
+2023-02-02 15:34:20,701 INFO 1816 [egg:logger] init all loggers with options: {"dir":"E:\\srcum_egg_service\\logs\\scrum_egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"scrum_egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-02-02 15:34:20,725 INFO 1816 [egg-multipart] stream mode enable
+2023-02-02 15:34:20,804 INFO 1816 [egg-static] starting static serve /public/ -> E:\srcum_egg_service\app\public
+2023-02-02 15:34:20,806 INFO 1816 [egg-security] use methodnoallow middleware
+2023-02-02 15:34:20,806 INFO 1816 [egg-security] use noopen middleware
+2023-02-02 15:34:20,807 INFO 1816 [egg-security] use nosniff middleware
+2023-02-02 15:34:20,807 INFO 1816 [egg-security] use xssProtection middleware
+2023-02-02 15:34:20,808 INFO 1816 [egg-security] use xframe middleware
+2023-02-02 15:34:20,808 INFO 1816 [egg-security] use dta middleware
+2023-02-02 15:34:20,808 INFO 1816 [egg-security] compose 6 middlewares into one security middleware
+2023-02-02 15:34:20,819 INFO 1816 [egg:core] dump config after load, 3ms
+2023-02-02 15:34:20,829 INFO 1816 [egg-watcher:application] watcher start success
+2023-02-02 15:34:20,834 INFO 1816 [egg:core] dump config after ready, 3ms
+2023-02-02 15:34:28,956 INFO 13564 [egg:logger] init all loggers with options: {"dir":"E:\\srcum_egg_service\\logs\\scrum_egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"scrum_egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-02-02 15:34:28,977 INFO 13564 [egg-multipart] stream mode enable
+2023-02-02 15:34:29,045 INFO 13564 [egg-static] starting static serve /public/ -> E:\srcum_egg_service\app\public
+2023-02-02 15:34:29,047 INFO 13564 [egg-security] use methodnoallow middleware
+2023-02-02 15:34:29,047 INFO 13564 [egg-security] use noopen middleware
+2023-02-02 15:34:29,048 INFO 13564 [egg-security] use nosniff middleware
+2023-02-02 15:34:29,048 INFO 13564 [egg-security] use xssProtection middleware
+2023-02-02 15:34:29,048 INFO 13564 [egg-security] use xframe middleware
+2023-02-02 15:34:29,049 INFO 13564 [egg-security] use dta middleware
+2023-02-02 15:34:29,049 INFO 13564 [egg-security] compose 6 middlewares into one security middleware
+2023-02-02 15:34:29,060 INFO 13564 [egg:core] dump config after load, 4ms
+2023-02-02 15:34:29,073 INFO 13564 [egg-watcher:application] watcher start success
+2023-02-02 15:34:29,078 INFO 13564 [egg:core] dump config after ready, 4ms
+2023-02-02 15:34:51,335 INFO 10920 [egg:logger] init all loggers with options: {"dir":"E:\\srcum_egg_service\\logs\\scrum_egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"scrum_egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-02-02 15:34:51,357 INFO 10920 [egg-multipart] stream mode enable
+2023-02-02 15:34:51,429 INFO 10920 [egg-static] starting static serve /public/ -> E:\srcum_egg_service\app\public
+2023-02-02 15:34:51,430 INFO 10920 [egg-security] use methodnoallow middleware
+2023-02-02 15:34:51,431 INFO 10920 [egg-security] use noopen middleware
+2023-02-02 15:34:51,431 INFO 10920 [egg-security] use nosniff middleware
+2023-02-02 15:34:51,431 INFO 10920 [egg-security] use xssProtection middleware
+2023-02-02 15:34:51,432 INFO 10920 [egg-security] use xframe middleware
+2023-02-02 15:34:51,432 INFO 10920 [egg-security] use dta middleware
+2023-02-02 15:34:51,432 INFO 10920 [egg-security] compose 6 middlewares into one security middleware
+2023-02-02 15:34:51,444 INFO 10920 [egg:core] dump config after load, 3ms
+2023-02-02 15:34:51,456 INFO 10920 [egg-watcher:application] watcher start success
+2023-02-02 15:34:51,461 INFO 10920 [egg:core] dump config after ready, 4ms
+2023-02-02 15:34:53,192 INFO 10920 [egg-view-nunjucks] loading templates from ["E:\\srcum_egg_service\\app\\view"]
+2023-02-02 15:35:00,274 INFO 10452 [egg:logger] init all loggers with options: {"dir":"E:\\srcum_egg_service\\logs\\scrum_egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"scrum_egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-02-02 15:35:00,293 INFO 10452 [egg-multipart] stream mode enable
+2023-02-02 15:35:00,362 INFO 10452 [egg-static] starting static serve /public/ -> E:\srcum_egg_service\app\public
+2023-02-02 15:35:00,363 INFO 10452 [egg-security] use methodnoallow middleware
+2023-02-02 15:35:00,364 INFO 10452 [egg-security] use noopen middleware
+2023-02-02 15:35:00,364 INFO 10452 [egg-security] use nosniff middleware
+2023-02-02 15:35:00,365 INFO 10452 [egg-security] use xssProtection middleware
+2023-02-02 15:35:00,365 INFO 10452 [egg-security] use xframe middleware
+2023-02-02 15:35:00,365 INFO 10452 [egg-security] use dta middleware
+2023-02-02 15:35:00,365 INFO 10452 [egg-security] compose 6 middlewares into one security middleware
+2023-02-02 15:35:00,377 INFO 10452 [egg:core] dump config after load, 4ms
+2023-02-02 15:35:00,387 INFO 10452 [egg-watcher:application] watcher start success
+2023-02-02 15:35:00,393 INFO 10452 [egg:core] dump config after ready, 4ms
+2023-02-02 15:37:06,162 INFO 10452 [egg-view-nunjucks] loading templates from ["E:\\srcum_egg_service\\app\\view"]
+2023-02-02 15:59:58,791 INFO 11688 [egg:logger] init all loggers with options: {"dir":"E:\\srcum_egg_service\\logs\\scrum_egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"scrum_egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-02-02 15:59:58,813 INFO 11688 [egg-multipart] stream mode enable
+2023-02-02 15:59:58,886 INFO 11688 [egg-static] starting static serve /public/ -> E:\srcum_egg_service\app\public
+2023-02-02 15:59:58,888 INFO 11688 [egg-security] use methodnoallow middleware
+2023-02-02 15:59:58,889 INFO 11688 [egg-security] use noopen middleware
+2023-02-02 15:59:58,889 INFO 11688 [egg-security] use nosniff middleware
+2023-02-02 15:59:58,890 INFO 11688 [egg-security] use xssProtection middleware
+2023-02-02 15:59:58,890 INFO 11688 [egg-security] use xframe middleware
+2023-02-02 15:59:58,890 INFO 11688 [egg-security] use dta middleware
+2023-02-02 15:59:58,890 INFO 11688 [egg-security] compose 6 middlewares into one security middleware
+2023-02-02 15:59:58,903 INFO 11688 [egg:core] dump config after load, 4ms
+2023-02-02 15:59:58,912 INFO 11688 [egg-watcher:application] watcher start success
+2023-02-02 15:59:58,917 INFO 11688 [egg:core] dump config after ready, 4ms
+2023-05-13 11:10:32,874 INFO 6164 [egg:logger] init all loggers with options: {"dir":"E:\\前端学习资料\\react项目演示\\react-serve\\logs\\scrum_egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"scrum_egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-05-13 11:10:32,908 INFO 6164 [egg-multipart] stream mode enable
+2023-05-13 11:10:33,100 INFO 6164 [egg-static] starting static serve /public/ -> E:\前端学习资料\react项目演示\react-serve\app\public
+2023-05-13 11:10:33,103 INFO 6164 [egg-security] use methodnoallow middleware
+2023-05-13 11:10:33,104 INFO 6164 [egg-security] use noopen middleware
+2023-05-13 11:10:33,106 INFO 6164 [egg-security] use nosniff middleware
+2023-05-13 11:10:33,107 INFO 6164 [egg-security] use xssProtection middleware
+2023-05-13 11:10:33,107 INFO 6164 [egg-security] use xframe middleware
+2023-05-13 11:10:33,108 INFO 6164 [egg-security] use dta middleware
+2023-05-13 11:10:33,109 INFO 6164 [egg-security] compose 6 middlewares into one security middleware
+2023-05-13 11:10:33,129 INFO 6164 [egg:core] dump config after load, 5ms
+2023-05-13 11:10:33,142 INFO 6164 [egg-watcher:application] watcher start success
+2023-05-13 11:10:33,150 INFO 6164 [egg:core] dump config after ready, 6ms
+2023-05-13 11:13:00,765 INFO 6164 [egg-view-nunjucks] loading templates from ["E:\\前端学习资料\\react项目演示\\react-serve\\app\\view"]
+2023-05-13 13:06:27,322 INFO 8772 [egg:logger] init all loggers with options: {"dir":"E:\\前端学习资料\\react项目演示\\react-serve\\logs\\scrum_egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"scrum_egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-05-13 13:06:27,357 INFO 8772 [egg-multipart] stream mode enable
+2023-05-13 13:06:27,562 INFO 8772 [egg-static] starting static serve /public/ -> E:\前端学习资料\react项目演示\react-serve\app\public
+2023-05-13 13:06:27,565 INFO 8772 [egg-security] use methodnoallow middleware
+2023-05-13 13:06:27,566 INFO 8772 [egg-security] use noopen middleware
+2023-05-13 13:06:27,568 INFO 8772 [egg-security] use nosniff middleware
+2023-05-13 13:06:27,569 INFO 8772 [egg-security] use xssProtection middleware
+2023-05-13 13:06:27,569 INFO 8772 [egg-security] use xframe middleware
+2023-05-13 13:06:27,570 INFO 8772 [egg-security] use dta middleware
+2023-05-13 13:06:27,570 INFO 8772 [egg-security] compose 6 middlewares into one security middleware
+2023-05-13 13:06:27,593 INFO 8772 [egg:core] dump config after load, 7ms
+2023-05-13 13:06:27,606 INFO 8772 [egg-watcher:application] watcher start success
+2023-05-13 13:06:27,613 INFO 8772 [egg:core] dump config after ready, 5ms
+2023-05-13 19:24:10,418 INFO 17404 [egg:logger] init all loggers with options: {"dir":"E:\\前端学习资料\\react项目演示\\react-serve\\logs\\scrum_egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"scrum_egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-05-13 19:24:10,453 INFO 17404 [egg-multipart] stream mode enable
+2023-05-13 19:24:10,657 INFO 17404 [egg-static] starting static serve /public/ -> E:\前端学习资料\react项目演示\react-serve\app\public
+2023-05-13 19:24:10,660 INFO 17404 [egg-security] use methodnoallow middleware
+2023-05-13 19:24:10,661 INFO 17404 [egg-security] use noopen middleware
+2023-05-13 19:24:10,663 INFO 17404 [egg-security] use nosniff middleware
+2023-05-13 19:24:10,664 INFO 17404 [egg-security] use xssProtection middleware
+2023-05-13 19:24:10,665 INFO 17404 [egg-security] use xframe middleware
+2023-05-13 19:24:10,665 INFO 17404 [egg-security] use dta middleware
+2023-05-13 19:24:10,666 INFO 17404 [egg-security] compose 6 middlewares into one security middleware
+2023-05-13 19:24:10,685 INFO 17404 [egg:core] dump config after load, 6ms
+2023-05-13 19:24:10,700 INFO 17404 [egg-watcher:application] watcher start success
+2023-05-13 19:24:10,717 INFO 17404 [egg:core] dump config after ready, 15ms
+2023-05-13 19:31:33,155 INFO 21496 [egg:logger] init all loggers with options: {"dir":"E:\\前端学习资料\\react项目演示\\react-serve\\logs\\scrum_egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"scrum_egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-05-13 19:31:33,192 INFO 21496 [egg-multipart] stream mode enable
+2023-05-13 19:31:33,395 INFO 21496 [egg-static] starting static serve /public/ -> E:\前端学习资料\react项目演示\react-serve\app\public
+2023-05-13 19:31:33,398 INFO 21496 [egg-security] use methodnoallow middleware
+2023-05-13 19:31:33,400 INFO 21496 [egg-security] use noopen middleware
+2023-05-13 19:31:33,402 INFO 21496 [egg-security] use nosniff middleware
+2023-05-13 19:31:33,402 INFO 21496 [egg-security] use xssProtection middleware
+2023-05-13 19:31:33,403 INFO 21496 [egg-security] use xframe middleware
+2023-05-13 19:31:33,404 INFO 21496 [egg-security] use dta middleware
+2023-05-13 19:31:33,404 INFO 21496 [egg-security] compose 6 middlewares into one security middleware
+2023-05-13 19:31:33,426 INFO 21496 [egg:core] dump config after load, 6ms
+2023-05-13 19:31:33,442 INFO 21496 [egg-watcher:application] watcher start success
+2023-05-13 19:31:33,450 INFO 21496 [egg:core] dump config after ready, 7ms
+2023-05-14 11:04:22,544 INFO 11620 [egg:logger] init all loggers with options: {"dir":"E:\\前端学习资料\\react项目演示\\react-serve\\logs\\scrum_egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"scrum_egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-05-14 11:04:22,580 INFO 11620 [egg-multipart] stream mode enable
+2023-05-14 11:04:22,813 INFO 11620 [egg-static] starting static serve /public/ -> E:\前端学习资料\react项目演示\react-serve\app\public
+2023-05-14 11:04:22,817 INFO 11620 [egg-security] use methodnoallow middleware
+2023-05-14 11:04:22,818 INFO 11620 [egg-security] use noopen middleware
+2023-05-14 11:04:22,820 INFO 11620 [egg-security] use nosniff middleware
+2023-05-14 11:04:22,821 INFO 11620 [egg-security] use xssProtection middleware
+2023-05-14 11:04:22,822 INFO 11620 [egg-security] use xframe middleware
+2023-05-14 11:04:22,824 INFO 11620 [egg-security] use dta middleware
+2023-05-14 11:04:22,824 INFO 11620 [egg-security] compose 6 middlewares into one security middleware
+2023-05-14 11:04:22,856 INFO 11620 [egg:core] dump config after load, 8ms
+2023-05-14 11:04:22,903 INFO 11620 [egg-watcher:application] watcher start success
+2023-05-14 11:04:22,912 INFO 11620 [egg:core] dump config after ready, 7ms
+2023-05-14 11:04:26,637 INFO 15608 [egg:logger] init all loggers with options: {"dir":"E:\\前端学习资料\\react项目演示\\react-serve\\logs\\scrum_egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"scrum_egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-05-14 11:04:26,671 INFO 15608 [egg-multipart] stream mode enable
+2023-05-14 11:04:26,862 INFO 15608 [egg-static] starting static serve /public/ -> E:\前端学习资料\react项目演示\react-serve\app\public
+2023-05-14 11:04:26,865 INFO 15608 [egg-security] use methodnoallow middleware
+2023-05-14 11:04:26,866 INFO 15608 [egg-security] use noopen middleware
+2023-05-14 11:04:26,868 INFO 15608 [egg-security] use nosniff middleware
+2023-05-14 11:04:26,869 INFO 15608 [egg-security] use xssProtection middleware
+2023-05-14 11:04:26,870 INFO 15608 [egg-security] use xframe middleware
+2023-05-14 11:04:26,871 INFO 15608 [egg-security] use dta middleware
+2023-05-14 11:04:26,871 INFO 15608 [egg-security] compose 6 middlewares into one security middleware
+2023-05-14 11:04:26,892 INFO 15608 [egg:core] dump config after load, 6ms
+2023-05-14 11:04:26,906 INFO 15608 [egg-watcher:application] watcher start success
+2023-05-14 11:04:26,914 INFO 15608 [egg:core] dump config after ready, 6ms
+2023-06-15 16:37:51,930 INFO 12056 [egg:logger] init all loggers with options: {"dir":"E:\\前端学习资料\\react项目演示\\react-serve\\logs\\scrum_egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"scrum_egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-06-15 16:37:51,965 INFO 12056 [egg-multipart] stream mode enable
+2023-06-15 16:37:52,194 INFO 12056 [egg-static] starting static serve /public/ -> E:\前端学习资料\react项目演示\react-serve\app\public
+2023-06-15 16:37:52,198 INFO 12056 [egg-security] use methodnoallow middleware
+2023-06-15 16:37:52,200 INFO 12056 [egg-security] use noopen middleware
+2023-06-15 16:37:52,203 INFO 12056 [egg-security] use nosniff middleware
+2023-06-15 16:37:52,204 INFO 12056 [egg-security] use xssProtection middleware
+2023-06-15 16:37:52,205 INFO 12056 [egg-security] use xframe middleware
+2023-06-15 16:37:52,206 INFO 12056 [egg-security] use dta middleware
+2023-06-15 16:37:52,206 INFO 12056 [egg-security] compose 6 middlewares into one security middleware
+2023-06-15 16:37:52,237 INFO 12056 [egg:core] dump config after load, 9ms
+2023-06-15 16:37:52,253 INFO 12056 [egg-watcher:application] watcher start success
+2023-06-15 16:37:52,260 INFO 12056 [egg:core] dump config after ready, 5ms
+2023-06-15 16:37:55,880 INFO 16120 [egg:logger] init all loggers with options: {"dir":"E:\\前端学习资料\\react项目演示\\react-serve\\logs\\scrum_egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"scrum_egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2023-06-15 16:37:55,915 INFO 16120 [egg-multipart] stream mode enable
+2023-06-15 16:37:56,104 INFO 16120 [egg-static] starting static serve /public/ -> E:\前端学习资料\react项目演示\react-serve\app\public
+2023-06-15 16:37:56,107 INFO 16120 [egg-security] use methodnoallow middleware
+2023-06-15 16:37:56,108 INFO 16120 [egg-security] use noopen middleware
+2023-06-15 16:37:56,110 INFO 16120 [egg-security] use nosniff middleware
+2023-06-15 16:37:56,111 INFO 16120 [egg-security] use xssProtection middleware
+2023-06-15 16:37:56,111 INFO 16120 [egg-security] use xframe middleware
+2023-06-15 16:37:56,112 INFO 16120 [egg-security] use dta middleware
+2023-06-15 16:37:56,112 INFO 16120 [egg-security] compose 6 middlewares into one security middleware
+2023-06-15 16:37:56,132 INFO 16120 [egg:core] dump config after load, 6ms
+2023-06-15 16:37:56,145 INFO 16120 [egg-watcher:application] watcher start success
+2023-06-15 16:37:56,152 INFO 16120 [egg:core] dump config after ready, 6ms

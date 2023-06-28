@@ -1,0 +1,150 @@
+2023-02-02 15:34:40,085 ERROR 13564 [-/::1/-/2ms GET /] nodejs.ReferenceError: ctx is not defined
+    at LoginController.test_html (E:\srcum_egg_service\app\controller\login.js:65:9)
+    at Object.callFn (E:\srcum_egg_service\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\srcum_egg_service\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\srcum_egg_service\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\srcum_egg_service\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\srcum_egg_service\node_modules\koa-compose\index.js:44:32)
+    at next (E:\srcum_egg_service\node_modules\koa-compose\index.js:45:18)
+    at E:\srcum_egg_service\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (E:\srcum_egg_service\node_modules\koa-compose\index.js:44:32)
+    at E:\srcum_egg_service\node_modules\koa-compose\index.js:36:12
+
+pid: 13564
+hostname: PC-202211210925
+
+2023-05-13 11:24:07,454 ERROR 6164 [-/::1/-/185ms GET /api/project/1] nodejs.TypeError: ctx.fail is not a function
+    at ProjectController.get_one_project (E:\前端学习资料\react项目演示\react-serve\app\controller\projects.js:58:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async login (E:\前端学习资料\react项目演示\react-serve\app\middleware\login.js:8:9)
+    at async E:\前端学习资料\react项目演示\react-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (E:\前端学习资料\react项目演示\react-serve\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (E:\前端学习资料\react项目演示\react-serve\node_modules\koa-bodyparser\index.js:95:5)
+
+pid: 6164
+hostname: LAPTOP-Q6M748OS
+
+2023-05-13 11:29:41,359 ERROR 6164 [-/::1/-/162ms GET /api/project/1] nodejs.TypeError: ctx.fail is not a function
+    at ProjectController.get_one_project (E:\前端学习资料\react项目演示\react-serve\app\controller\projects.js:58:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async login (E:\前端学习资料\react项目演示\react-serve\app\middleware\login.js:8:9)
+    at async E:\前端学习资料\react项目演示\react-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (E:\前端学习资料\react项目演示\react-serve\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (E:\前端学习资料\react项目演示\react-serve\node_modules\koa-bodyparser\index.js:95:5)
+
+pid: 6164
+hostname: LAPTOP-Q6M748OS
+
+2023-05-13 11:33:52,734 ERROR 6164 [-/::1/-/172ms GET /api/project/1] nodejs.TypeError: ctx.fail is not a function
+    at ProjectController.get_one_project (E:\前端学习资料\react项目演示\react-serve\app\controller\projects.js:58:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async login (E:\前端学习资料\react项目演示\react-serve\app\middleware\login.js:8:9)
+    at async E:\前端学习资料\react项目演示\react-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (E:\前端学习资料\react项目演示\react-serve\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (E:\前端学习资料\react项目演示\react-serve\node_modules\koa-bodyparser\index.js:95:5)
+
+pid: 6164
+hostname: LAPTOP-Q6M748OS
+
+2023-05-13 11:35:30,196 ERROR 6164 [-/::1/-/183ms GET /api/project/1] nodejs.TypeError: ctx.fail is not a function
+    at ProjectController.get_one_project (E:\前端学习资料\react项目演示\react-serve\app\controller\projects.js:58:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async login (E:\前端学习资料\react项目演示\react-serve\app\middleware\login.js:8:9)
+    at async E:\前端学习资料\react项目演示\react-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (E:\前端学习资料\react项目演示\react-serve\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (E:\前端学习资料\react项目演示\react-serve\node_modules\koa-bodyparser\index.js:95:5)
+
+pid: 6164
+hostname: LAPTOP-Q6M748OS
+
+2023-05-13 11:35:33,684 ERROR 6164 [-/::1/-/166ms GET /api/project/1] nodejs.TypeError: ctx.fail is not a function
+    at ProjectController.get_one_project (E:\前端学习资料\react项目演示\react-serve\app\controller\projects.js:58:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async login (E:\前端学习资料\react项目演示\react-serve\app\middleware\login.js:8:9)
+    at async E:\前端学习资料\react项目演示\react-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (E:\前端学习资料\react项目演示\react-serve\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (E:\前端学习资料\react项目演示\react-serve\node_modules\koa-bodyparser\index.js:95:5)
+
+pid: 6164
+hostname: LAPTOP-Q6M748OS
+
+2023-05-13 11:35:43,191 ERROR 6164 [-/::1/-/174ms GET /api/project/1] nodejs.TypeError: ctx.fail is not a function
+    at ProjectController.get_one_project (E:\前端学习资料\react项目演示\react-serve\app\controller\projects.js:58:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async login (E:\前端学习资料\react项目演示\react-serve\app\middleware\login.js:8:9)
+    at async E:\前端学习资料\react项目演示\react-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (E:\前端学习资料\react项目演示\react-serve\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (E:\前端学习资料\react项目演示\react-serve\node_modules\koa-bodyparser\index.js:95:5)
+
+pid: 6164
+hostname: LAPTOP-Q6M748OS
+
+2023-05-13 11:36:10,733 ERROR 6164 [-/::1/-/130ms GET /api/project/1] nodejs.TypeError: ctx.fail is not a function
+    at ProjectController.get_one_project (E:\前端学习资料\react项目演示\react-serve\app\controller\projects.js:58:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async login (E:\前端学习资料\react项目演示\react-serve\app\middleware\login.js:8:9)
+    at async E:\前端学习资料\react项目演示\react-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (E:\前端学习资料\react项目演示\react-serve\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (E:\前端学习资料\react项目演示\react-serve\node_modules\koa-bodyparser\index.js:95:5)
+
+pid: 6164
+hostname: LAPTOP-Q6M748OS
+
+2023-05-13 11:36:11,104 ERROR 6164 [-/::1/-/153ms GET /api/project/1] nodejs.TypeError: ctx.fail is not a function
+    at ProjectController.get_one_project (E:\前端学习资料\react项目演示\react-serve\app\controller\projects.js:58:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async login (E:\前端学习资料\react项目演示\react-serve\app\middleware\login.js:8:9)
+    at async E:\前端学习资料\react项目演示\react-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (E:\前端学习资料\react项目演示\react-serve\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (E:\前端学习资料\react项目演示\react-serve\node_modules\koa-bodyparser\index.js:95:5)
+
+pid: 6164
+hostname: LAPTOP-Q6M748OS
+
+2023-05-13 11:45:44,783 ERROR 6164 [-/::1/-/291ms GET /api/project/1] nodejs.TypeError: ctx.fail is not a function
+    at ProjectController.get_one_project (E:\前端学习资料\react项目演示\react-serve\app\controller\projects.js:58:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async login (E:\前端学习资料\react项目演示\react-serve\app\middleware\login.js:8:9)
+    at async E:\前端学习资料\react项目演示\react-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (E:\前端学习资料\react项目演示\react-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (E:\前端学习资料\react项目演示\react-serve\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (E:\前端学习资料\react项目演示\react-serve\node_modules\koa-bodyparser\index.js:95:5)
+
+pid: 6164
+hostname: LAPTOP-Q6M748OS
+

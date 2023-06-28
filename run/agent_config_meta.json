@@ -1,0 +1,315 @@
+{
+  "keys": "E:\\前端学习资料\\react项目演示\\react-serve\\config\\config.default.js",
+  "middleware": "E:\\前端学习资料\\react项目演示\\react-serve\\config\\config.default.js",
+  "login": {
+    "ignore": "E:\\前端学习资料\\react项目演示\\react-serve\\config\\config.default.js"
+  },
+  "security": {
+    "csrf": {
+      "enable": "E:\\前端学习资料\\react项目演示\\react-serve\\config\\config.default.js",
+      "type": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "supportedRequests": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "ipExceptionList": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "view": {
+    "mapping": {
+      ".html": "E:\\前端学习资料\\react项目演示\\react-serve\\config\\config.default.js"
+    },
+    "root": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "session": {
+    "key": "E:\\前端学习资料\\react项目演示\\react-serve\\config\\config.default.js",
+    "maxAge": "E:\\前端学习资料\\react项目演示\\react-serve\\config\\config.default.js",
+    "httpOnly": "E:\\前端学习资料\\react项目演示\\react-serve\\config\\config.default.js",
+    "encrypt": "E:\\前端学习资料\\react项目演示\\react-serve\\config\\config.default.js",
+    "logValue": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "allowArrayField": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+      "disable": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "throwOnUndefined": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "trimBlocks": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "lstripBlocks": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "cache": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg-view-nunjucks\\config\\config.local.js"
+  },
+  "env": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+  "name": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "version": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "description": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "private": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "egg": {
+      "declarations": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "@cloudbase/node-sdk": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "egg": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-nunjucks": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "stop": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "dev": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "debug": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "test": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "cov": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "lint": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "ci": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "type": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "url": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "license": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "cacheControl": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "strict": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "depth": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "env": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "level": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "enablePerformanceTimer": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "logging": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "port": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "E:\\前端学习资料\\react项目演示\\react-serve\\node_modules\\egg\\config\\config.default.js"
+}

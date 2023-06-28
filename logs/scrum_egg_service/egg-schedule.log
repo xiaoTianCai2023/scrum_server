@@ -1,0 +1,87 @@
+2023-02-01 09:45:08,152 INFO 12904 [Job#1675215908151893604841576001] E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js executing by app
+2023-02-01 09:45:08,157 INFO 12904 [Job#1675215908151893604841576001] E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js execute succeed, used 5ms. 
+2023-02-01 09:45:08,152 INFO 15128 [Timer] E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 67491849ms at 2023-02-02 04:30:00.001
+2023-02-01 23:18:09,458 INFO 18468 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-01 23:18:09,458 INFO 18468 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-01 23:18:09,458 INFO 18468 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-01 23:18:10,617 INFO 19448 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-01 23:18:10,617 INFO 19448 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-01 23:18:10,617 INFO 19448 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-01 23:18:24,836 INFO 13980 [Timer] E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 18695166ms at 2023-02-02 04:30:00.002
+2023-02-01 23:18:24,836 INFO 13980 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 2495164ms at 2023-02-02 00:00:00.000
+2023-02-01 23:18:24,836 INFO 13980 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 2496164ms at 2023-02-02 00:00:01.000
+2023-02-02 14:48:10,968 INFO 11556 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-02 14:48:10,968 INFO 11556 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-02 14:48:10,968 INFO 11556 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-02 14:48:11,074 INFO 5176 [Timer] E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 49308928ms at 2023-02-03 04:30:00.002
+2023-02-02 14:48:11,074 INFO 5176 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 33108926ms at 2023-02-03 00:00:00.000
+2023-02-02 14:48:11,074 INFO 5176 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 33109926ms at 2023-02-03 00:00:01.000
+2023-02-02 15:27:24,793 INFO 15536 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-02 15:27:24,793 INFO 15536 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-02 15:27:24,793 INFO 15536 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-02 15:29:26,796 INFO 8768 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-02 15:29:26,796 INFO 8768 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-02 15:29:26,796 INFO 8768 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-02 15:30:31,736 INFO 14104 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-02 15:30:31,737 INFO 14104 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-02 15:30:31,737 INFO 14104 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-02 15:30:45,019 INFO 14400 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-02 15:30:45,019 INFO 14400 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-02 15:30:45,019 INFO 14400 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-02 15:30:59,078 INFO 15576 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-02 15:30:59,078 INFO 15576 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-02 15:30:59,078 INFO 15576 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-02 15:34:20,724 INFO 1816 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-02 15:34:20,724 INFO 1816 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-02 15:34:20,725 INFO 1816 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-02 15:34:28,976 INFO 13564 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-02 15:34:28,976 INFO 13564 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-02 15:34:28,976 INFO 13564 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-02 15:34:29,083 INFO 3600 [Timer] E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 46530919ms at 2023-02-03 04:30:00.002
+2023-02-02 15:34:29,083 INFO 3600 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 30330917ms at 2023-02-03 00:00:00.000
+2023-02-02 15:34:29,083 INFO 3600 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 30331917ms at 2023-02-03 00:00:01.000
+2023-02-02 15:34:51,357 INFO 10920 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-02 15:34:51,357 INFO 10920 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-02 15:34:51,357 INFO 10920 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-02 15:35:00,293 INFO 10452 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-02 15:35:00,293 INFO 10452 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-02 15:35:00,293 INFO 10452 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-02 15:59:58,812 INFO 11688 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-02 15:59:58,812 INFO 11688 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-02 15:59:58,812 INFO 11688 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-05-13 11:10:33,158 INFO 8292 [Timer] E:\前端学习资料\react项目演示\react-serve\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 62366845ms at 2023-05-14 04:30:00.002
+2023-05-13 11:10:33,158 INFO 8292 [Timer] E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 46166842ms at 2023-05-14 00:00:00.000
+2023-05-13 11:10:33,158 INFO 8292 [Timer] E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 46167842ms at 2023-05-14 00:00:01.000
+2023-05-13 11:10:32,908 INFO 6164 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-05-13 11:10:32,908 INFO 6164 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-05-13 11:10:32,908 INFO 6164 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-05-13 13:06:27,356 INFO 8772 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-05-13 13:06:27,356 INFO 8772 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-05-13 13:06:27,356 INFO 8772 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-05-13 19:24:10,452 INFO 17404 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-05-13 19:24:10,452 INFO 17404 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-05-13 19:24:10,452 INFO 17404 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-05-13 19:31:33,457 INFO 19836 [Timer] E:\前端学习资料\react项目演示\react-serve\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 32306546ms at 2023-05-14 04:30:00.003
+2023-05-13 19:31:33,457 INFO 19836 [Timer] E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 16106543ms at 2023-05-14 00:00:00.000
+2023-05-13 19:31:33,457 INFO 19836 [Timer] E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 16107543ms at 2023-05-14 00:00:01.000
+2023-05-13 19:31:33,191 INFO 21496 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-05-13 19:31:33,191 INFO 21496 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-05-13 19:31:33,191 INFO 21496 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-05-14 11:04:22,918 INFO 20360 [Timer] E:\前端学习资料\react项目演示\react-serve\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 62737085ms at 2023-05-15 04:30:00.003
+2023-05-14 11:04:22,919 INFO 20360 [Timer] E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 46537081ms at 2023-05-15 00:00:00.000
+2023-05-14 11:04:22,919 INFO 20360 [Timer] E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 46538081ms at 2023-05-15 00:00:01.000
+2023-05-14 11:04:22,579 INFO 11620 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-05-14 11:04:22,579 INFO 11620 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-05-14 11:04:22,579 INFO 11620 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-05-14 11:04:26,670 INFO 15608 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-05-14 11:04:26,670 INFO 15608 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-05-14 11:04:26,670 INFO 15608 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-06-15 16:37:52,267 INFO 23056 [Timer] E:\前端学习资料\react项目演示\react-serve\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 42727736ms at 2023-06-16 04:30:00.003
+2023-06-15 16:37:52,267 INFO 23056 [Timer] E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 26527733ms at 2023-06-16 00:00:00.000
+2023-06-15 16:37:52,267 INFO 23056 [Timer] E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 26528733ms at 2023-06-16 00:00:01.000
+2023-06-15 16:37:51,964 INFO 12056 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-06-15 16:37:51,964 INFO 12056 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-06-15 16:37:51,964 INFO 12056 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-06-15 16:37:55,914 INFO 16120 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-06-15 16:37:55,914 INFO 16120 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-06-15 16:37:55,914 INFO 16120 [egg-schedule]: register schedule E:\前端学习资料\react项目演示\react-serve\node_modules\egg-logrotator\app\schedule\rotate_by_file.js

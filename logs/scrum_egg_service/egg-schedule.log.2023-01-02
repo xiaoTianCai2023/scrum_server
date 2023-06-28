@@ -1,0 +1,12 @@
+2023-01-02 23:42:37,872 INFO 12392 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-01-02 23:42:37,873 INFO 12392 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-01-02 23:42:37,873 INFO 12392 [egg-schedule]: register schedule E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-01-02 23:42:37,978 INFO 11156 [Timer] E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 17242024ms at 2023-01-03 04:30:00.002
+2023-01-02 23:42:37,978 INFO 11156 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 1042022ms at 2023-01-03 00:00:00.000
+2023-01-02 23:42:37,978 INFO 11156 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 1043022ms at 2023-01-03 00:00:01.000
+2023-01-03 00:00:00,021 INFO 11156 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 86399981ms at 2023-01-04 00:00:00.002
+2023-01-03 00:00:00,020 INFO 12392 [Job#1672675200019384731373290001] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js executing by app
+2023-01-03 00:00:00,026 INFO 12392 [Job#1672675200019384731373290001] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js execute succeed, used 6ms. 
+2023-01-03 00:00:01,026 INFO 12392 [Job#1672675201026384741445247001] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2023-01-03 00:00:01,032 INFO 12392 [Job#1672675201026384741445247001] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 6ms. 
+2023-01-03 00:00:01,028 INFO 11156 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 86399974ms at 2023-01-04 00:00:01.002

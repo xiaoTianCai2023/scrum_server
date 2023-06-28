@@ -1,0 +1,9 @@
+2023-01-05 04:30:00,249 INFO 9576 [Timer] E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 86399752ms at 2023-01-06 04:30:00.001
+2023-01-05 04:30:00,249 INFO 7744 [Job#1672864200248569849810362001] E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js executing by app
+2023-01-05 04:30:00,252 INFO 7744 [Job#1672864200248569849810362001] E:\srcum_egg_service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js execute succeed, used 3ms. 
+2023-01-06 00:00:00,517 INFO 9576 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 86399484ms at 2023-01-07 00:00:00.001
+2023-01-06 00:00:00,517 INFO 7744 [Job#16729344005161271847902337002] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js executing by app
+2023-01-06 00:00:00,525 INFO 7744 [Job#16729344005161271847902337002] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\clean_log.js execute succeed, used 7ms. 
+2023-01-06 00:00:01,528 INFO 9576 [Timer] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 86399473ms at 2023-01-07 00:00:01.001
+2023-01-06 00:00:01,528 INFO 7744 [Job#16729344015271271858012153002] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2023-01-06 00:00:01,531 INFO 7744 [Job#16729344015271271858012153002] E:\srcum_egg_service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 3ms. 

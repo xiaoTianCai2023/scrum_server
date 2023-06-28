@@ -1,0 +1,147 @@
+2023-01-06 02:22:11,757 ERROR 7744 [-/127.0.0.1/-/274ms GET /api/project/540f1a4b63a5bb7e00136afc7eabc678] nodejs.TypeError: ctx.fail is not a function
+    at ProjectController.get_one_project (E:\srcum_egg_service\app\controller\projects.js:58:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\srcum_egg_service\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (E:\srcum_egg_service\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (E:\srcum_egg_service\node_modules\koa-bodyparser\index.js:95:5)
+    at async E:\srcum_egg_service\node_modules\koa-static-cache\index.js:41:56
+
+pid: 7744
+hostname: PC-202211210925
+
+2023-01-06 02:22:39,366 ERROR 7744 [-/127.0.0.1/-/271ms GET /api/project/ff6b785e63a5bb910019dc8745273926] nodejs.TypeError: ctx.fail is not a function
+    at ProjectController.get_one_project (E:\srcum_egg_service\app\controller\projects.js:58:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\srcum_egg_service\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (E:\srcum_egg_service\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (E:\srcum_egg_service\node_modules\koa-bodyparser\index.js:95:5)
+    at async E:\srcum_egg_service\node_modules\koa-static-cache\index.js:41:56
+
+pid: 7744
+hostname: PC-202211210925
+
+2023-01-06 02:30:24,839 ERROR 7744 [-/127.0.0.1/-/318ms GET /api/project/ff6b785e63a5bb910019dc8745273926] nodejs.TypeError: ctx.fail is not a function
+    at ProjectController.get_one_project (E:\srcum_egg_service\app\controller\projects.js:58:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\srcum_egg_service\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (E:\srcum_egg_service\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (E:\srcum_egg_service\node_modules\koa-bodyparser\index.js:95:5)
+    at async E:\srcum_egg_service\node_modules\koa-static-cache\index.js:41:56
+
+pid: 7744
+hostname: PC-202211210925
+
+2023-01-06 02:30:37,037 ERROR 7744 [-/127.0.0.1/-/297ms GET /api/project/ff6b785e63a5bb910019dc8745273926] nodejs.TypeError: ctx.fail is not a function
+    at ProjectController.get_one_project (E:\srcum_egg_service\app\controller\projects.js:58:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\srcum_egg_service\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (E:\srcum_egg_service\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (E:\srcum_egg_service\node_modules\koa-bodyparser\index.js:95:5)
+    at async E:\srcum_egg_service\node_modules\koa-static-cache\index.js:41:56
+
+pid: 7744
+hostname: PC-202211210925
+
+2023-01-06 02:30:58,564 ERROR 7744 [-/127.0.0.1/-/264ms GET /api/project/ff6b785e63a5bb910019dc8745273926] nodejs.TypeError: ctx.fail is not a function
+    at ProjectController.get_one_project (E:\srcum_egg_service\app\controller\projects.js:58:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\srcum_egg_service\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (E:\srcum_egg_service\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (E:\srcum_egg_service\node_modules\koa-bodyparser\index.js:95:5)
+    at async E:\srcum_egg_service\node_modules\koa-static-cache\index.js:41:56
+
+pid: 7744
+hostname: PC-202211210925
+
+2023-01-06 02:31:13,955 ERROR 7744 [-/127.0.0.1/-/312ms GET /api/project/ff6b785e63a5bb910019dc8745273926] nodejs.TypeError: ctx.fail is not a function
+    at ProjectController.get_one_project (E:\srcum_egg_service\app\controller\projects.js:58:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\srcum_egg_service\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (E:\srcum_egg_service\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (E:\srcum_egg_service\node_modules\koa-bodyparser\index.js:95:5)
+    at async E:\srcum_egg_service\node_modules\koa-static-cache\index.js:41:56
+
+pid: 7744
+hostname: PC-202211210925
+
+2023-01-06 02:31:23,602 ERROR 7744 [-/127.0.0.1/-/290ms GET /api/project/ff6b785e63a5bb910019dc8745273926] nodejs.TypeError: ctx.fail is not a function
+    at ProjectController.get_one_project (E:\srcum_egg_service\app\controller\projects.js:58:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\srcum_egg_service\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (E:\srcum_egg_service\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (E:\srcum_egg_service\node_modules\koa-bodyparser\index.js:95:5)
+    at async E:\srcum_egg_service\node_modules\koa-static-cache\index.js:41:56
+
+pid: 7744
+hostname: PC-202211210925
+
+2023-01-06 02:31:24,948 ERROR 7744 [-/127.0.0.1/-/294ms GET /api/project/ff6b785e63a5bb910019dc8745273926] nodejs.TypeError: ctx.fail is not a function
+    at ProjectController.get_one_project (E:\srcum_egg_service\app\controller\projects.js:58:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\srcum_egg_service\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (E:\srcum_egg_service\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (E:\srcum_egg_service\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (E:\srcum_egg_service\node_modules\koa-bodyparser\index.js:95:5)
+    at async E:\srcum_egg_service\node_modules\koa-static-cache\index.js:41:56
+
+pid: 7744
+hostname: PC-202211210925
+
+2023-01-06 18:53:29,097 ERROR 10480 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:211:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10480
+hostname: PC-202211210925
+
+2023-01-08 02:47:57,961 ERROR 13164 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:211:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13164
+hostname: PC-202211210925
+
+2023-01-09 17:14:36,013 ERROR 11252 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:211:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 11252
+hostname: PC-202211210925
+
